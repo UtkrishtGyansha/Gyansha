@@ -1,0 +1,9 @@
+List of Fonts used in template 
+
+
+
+
+Asap			http://www.google.com/fonts/specimen/Asap
+Droid Sans		http://www.google.com/fonts/specimen/Droid+Sans
+Noto Sans		http://www.google.com/fonts/specimen/Noto+Sans
+Roboto			http://www.google.com/fonts/specimen/Roboto
